@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCmGSHBMPbr6cI0dCnr6KKyGWDgCG6kQiU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>795619622151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.minimalChat</string>
+	<key>PROJECT_ID</key>
+	<string>minchat-c537a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>minchat-c537a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:795619622151:ios:bfa1cff463a62f5d9699a2</string>
+</dict>
+</plist>
