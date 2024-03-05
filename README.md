@@ -1,1 +1,1 @@
-# TextMe
+# TextMe - Basic Chat Application
